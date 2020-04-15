@@ -1,0 +1,97 @@
+/*-----Body-----*/
+body
+{
+	margin: 0;
+	padding: 0;
+}
+/*-----Container-----*/
+.container
+{
+	width: 100%;
+	height: 100vh;
+	overflow: hidden;
+	background: #111;
+}
+/*-----Container Box-----*/
+.container .box
+{
+	position: relative;
+	width: 24px;
+	height: 24px;
+	background: #111;
+	float: left;
+	border: 1px solid rgba(0,0,0,.2);
+	box-sizing: border-box;
+	overflow: hidden;
+}
+.container .box:before
+{
+	content: '';
+	position: absolute;
+	top: 6px;
+	left: 6px;
+	bottom: 6px; 
+	right: 6px;
+	background: #1d1d1d;
+	box-shadow: 0 1px 4px rgba(0,0,0,1);
+  	transition: 5s ease-in-out;
+}
+.container .box:hover:before
+{
+  	transition: 0s ease-in-out;
+}
+.container .box:nth-child(9n+1):hover:before
+{
+	background: #f45103;
+  	transition: 0s ease-in-out;
+  	box-shadow: 0 0 3px #f45103,
+  				0 0 10px #f45103;
+}
+.container .box:nth-child(9n+2):hover:before
+{
+	background: #f45103;
+  	box-shadow: 0 0 3px #f45103,
+  				0 0 10px #f45103;
+}
+.container .box:nth-child(9n+3):hover:before
+{
+	background: #f45103;
+  	box-shadow: 0 0 3px #f45103,
+  				0 0 10px #f45103;
+}
+.container .box:nth-child(9n+4):hover:before
+{
+	background: #f45103;
+  	box-shadow: 0 0 3px #f45103,
+  				0 0 10px #f45103;
+}
+.container .box:nth-child(9n+5):hover:before
+{
+	background: #f45103;
+  	box-shadow: 0 0 3px #f45103,
+  				0 0 10px #f45103;
+}
+.container .box:nth-child(9n+6):hover:before
+{
+	background: #f45103;
+  	box-shadow: 0 0 3px #f45103,
+  				0 0 10px #f45103;
+}
+.container .box:nth-child(9n+7):hover:before
+{
+	background: #f45103;
+  	box-shadow: 0 0 3px #f45103,
+  				0 0 10px #f45103;
+}
+.container .box:nth-child(9n+8):hover:before
+{
+	background: #f45103;
+  	box-shadow: 0 0 3px #f45103,
+  				0 0 10px #f45103;
+}
+.container .box:nth-child(9n+9):hover:before
+{
+	background: #f45103;
+  	box-shadow: 0 0 3px #f45103,
+  				0 0 10px #f45103;
+}
