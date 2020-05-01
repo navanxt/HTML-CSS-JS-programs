@@ -1,0 +1,40 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #202020;
+}
+.container
+{
+    position: relative;
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+}
+.container .icon
+{
+    width: 200px;
+}
+.container .icon path
+{
+    fill: transparent;
+    stroke-width: 10;
+    stroke: #FFA500;
+}
+.container .icon.heart path
+{
+    stroke-dasharray: 1560;
+    stroke-dashoffset: 1560;
+}
+.container .icon.heart:hover path
+{
+    
+}
