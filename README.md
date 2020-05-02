@@ -12,3 +12,5 @@ Try opening them in a desktop, or use desktop mode.
 ◾ Calculator : A basic calculator.
 
 ◾ Icon animation : Shows an animation upon hovering over an icon.
+
+◾ Loading colour wheel : Shows a glowing multicolour wheel as a loading animation.
