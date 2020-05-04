@@ -14,3 +14,5 @@ Try opening them in a desktop, or use desktop mode.
 ◾ Icon animation : Shows an animation upon hovering over an icon.
 
 ◾ Loading colour wheel : Shows a glowing multicolour wheel as a loading animation.
+
+◾ Neon text : Displays text with a neon filter.
