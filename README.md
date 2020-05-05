@@ -16,3 +16,5 @@ Try opening them in a desktop, or use desktop mode.
 ◾ Loading colour wheel : Shows a glowing multicolour wheel as a loading animation.
 
 ◾ Neon text : Displays text with a neon filter.
+
+◾ Wavy circle : Produces a wavy circular curve loading animation.
