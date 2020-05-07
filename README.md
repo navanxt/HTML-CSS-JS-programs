@@ -1,4 +1,6 @@
-# 💻 HTML-CSS-JS-projects 💻
+# HTML-CSS-JS-projects 
+
+![](https://www.kindpng.com/picc/m/452-4529239_html-css-and-javascript-logo-html-css-logo.png)
 
 This repo consists of some projects that I made using HTML, CSS and JS.
 
