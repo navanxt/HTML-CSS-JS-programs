@@ -1,4 +1,4 @@
-# HTML-CSS-JS-projects 
+# HTML-CSS-JS-programs
 
 This repo consists of some projects that I made using HTML, CSS and JS.
 
