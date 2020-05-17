@@ -1,6 +1,6 @@
 # HTML-CSS-JS-programs
 
-This repo consists of some projects that I made using HTML, CSS and JS.
+### This repo consists of some programs that I did using HTML, CSS and JS.
 
 To test, download all the files and open 'index.html'.
 Try opening them in a desktop, or use desktop mode.
