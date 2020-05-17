@@ -2,8 +2,8 @@
 
 ### This repo consists of some programs that I did using HTML, CSS and JS.
 
-To test, download all the files and open 'index.html'.
-Try opening them in a desktop, or use desktop mode.
+### To test, download all the files and open 'index.html'.
+### Try opening them in a desktop, or use desktop mode.
 
 <ul>
   <li>Lit up boxes : Effect, in which boxes light up upon hovering over them.</li>
